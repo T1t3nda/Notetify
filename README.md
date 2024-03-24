@@ -1,5 +1,5 @@
 # Notetify
-TThis project is a full-stack web application designed for managing notes. It is intended for users who need a simple yet powerful tool to organize their thoughts, ideas, and tasks. The application allows users to create, edit, and delete notes, ensuring that their information is easily accessible and manageable. 
+This project is a full-stack web application designed for managing notes. It is intended for users who need a simple yet powerful tool to organize their thoughts, ideas, and tasks. The application allows users to create, edit, and delete notes, ensuring that their information is easily accessible and manageable. 
 
 ## Tech Stack
 
